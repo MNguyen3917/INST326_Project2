@@ -1,3 +1,4 @@
 class Snippet:
   def __init__(self):
+  
 # hello
